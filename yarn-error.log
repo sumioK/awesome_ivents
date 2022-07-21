@@ -1,0 +1,31 @@
+Arguments: 
+  C:\Program Files\nodejs\node.exe C:\Users\sumio\AppData\Roaming\npm\node_modules\yarn\bin\yarn.js add bootstrap@4.4.1 jquery@3.5.1 popper.js@1.16.1
+
+PATH: 
+  C:\Program Files\WindowsApps\Microsoft.WindowsTerminal_1.13.11431.0_x64__8wekyb3d8bbwe;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\sumio\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Users\sumio\.rbenv-win\shims;_SZ    C:\Program Files\MySQL\MySQL Server 8.0\bin\;C:\Users\sumio\AppData\Local\Microsoft\WindowsApps;C:\Users\sumio\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\sumio\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\sumio\AppData\Roaming\npm;C:\Ruby31-x64\bin;C:\Program Files\Git\bin;C:\Program Files\heroku\bin;C:\Users\sumio\.rbenv-win\bin;C:\Users\sumio\bin;C:\Program Files\Amazon\AWSCLIV2;
+
+Yarn version: 
+  1.22.19
+
+Node version: 
+  16.15.1
+
+Platform: 
+  win32 x64
+
+Trace: 
+  SyntaxError: C:\Users\sumio\perfect_rails\awesome_events\package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at C:\Users\sumio\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:1629:59
+      at Generator.next (<anonymous>)
+      at step (C:\Users\sumio\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:310:30)
+      at C:\Users\sumio\AppData\Roaming\npm\node_modules\yarn\lib\cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
